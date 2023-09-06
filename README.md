@@ -1,7 +1,7 @@
 ![Background](https://github.com/hanqihua01/hanqihua01/assets/71539600/a764282a-9e60-42cb-a616-ee3ed04c1408)
 
 # Hi there 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b66c2?logo=linkedin)](https://github.com/YourUsername/YourRepository)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b66c2?logo=linkedin)](https://www.linkedin.com/in/qihua-han/)
 [![UvA](https://img.shields.io/badge/UvA-1e1d21)](https://www.uva.nl/en)
 [![VU](https://img.shields.io/badge/VU-0289cf)](https://vu.nl/en)
 [![NUDT](https://img.shields.io/badge/NUDT-035743)](https://www.nudt.edu.cn/)
