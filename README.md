@@ -1,4 +1,4 @@
-![Background](https://github.com/hanqihua01/hanqihua01/assets/71539600/12ac2b8c-9e03-44fb-b759-24a92fc5c167)
+![Background](https://github.com/hanqihua01/hanqihua01/assets/71539600/a764282a-9e60-42cb-a616-ee3ed04c1408)
 
 # Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b66c2?logo=linkedin)](https://github.com/YourUsername/YourRepository)
