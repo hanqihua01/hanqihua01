@@ -6,5 +6,5 @@
 [![VU](https://img.shields.io/badge/VU-0289cf)](https://vu.nl/en)
 [![NUDT](https://img.shields.io/badge/NUDT-035743)](https://www.nudt.edu.cn/)
 
-- 🏫 I am studying for a Master's degree in Computer Science at Universiteit van Amsterdam & Vrije Universiteit Amsterdam, and I am following the track Systems for Large-Scale Applications.
+- 🏫 I am studying for a Master's program in Computer Science at Universiteit van Amsterdam & Vrije Universiteit Amsterdam, and I am following the track Systems for Large-Scale Applications.
 - 🎓 I obtained my Bachelor's degree in Software Engineering at National University of Defense Technology in China.
