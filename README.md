@@ -2,6 +2,7 @@
 
 # Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b66c2?logo=linkedin)](https://www.linkedin.com/in/qihua-han/)
+[![GitHub](https://img.shields.io/badge/GitHub-202328?logo=github)](https://github.com/hanqihua01)
 [![UvA](https://img.shields.io/badge/UvA-1e1d21)](https://www.uva.nl/en)
 [![VU](https://img.shields.io/badge/VU-0289cf)](https://vu.nl/en)
 [![NUDT](https://img.shields.io/badge/NUDT-035743)](https://www.nudt.edu.cn/)
